@@ -728,6 +728,28 @@ section h3.section-subheading {
     border-radius: 50%;
     transition: all 0.2s;
 }
+#services i.fab {
+    font-size: 38px;
+    /* border: 4px solid; */
+    background: #058BCE;
+    width: 80px;
+    height: 80px;
+    padding: 22px 17px;
+    border-radius: 50%;
+    transition: all 0.2s;
+    color: white;
+}
+#services i.fas {
+    font-size: 38px;
+    /* border: 4px solid; */
+    background: #058BCE;
+    width: 80px;
+    height: 80px;
+    padding: 22px 17px;
+    border-radius: 50%;
+    transition: all 0.2s;
+    color: white;
+}
 
 .fa:before {
     color: #fff;
@@ -1687,10 +1709,11 @@ footer {
 }
 footer span.copyright {
     font-family: "lato";
-    text-transform: none;
+    /* text-transform: none; */
     color: #757575;
     float: left;
     margin-top: 20px;
+    margin-bottom: 20px;
     font-size: 12px;
 }
 ul.social-buttons {

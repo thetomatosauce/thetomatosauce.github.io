@@ -282,5 +282,5 @@ p.copy {
     font-size: 14px;
     color: #3C3C3C;
     padding-top: 80px;
-    position: relative;
+    /* position: relative; */
 }
